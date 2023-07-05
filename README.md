@@ -2,6 +2,12 @@
 
 The Todo List Version 2 is an improved web application that allows users to create, manage, and organize their tasks or to-do items. It includes additional features and utilizes databases for data storage and retrieval.
 
+## 💻 Usage
+
+For your convenience, I have hosted this website on **Render** for free. Since it is a free service, there might be some delay while loading the website, please be patient 🙂
+
+You can access the website from here: https://todo-list-v2-esc7.onrender.com
+
 ## 🌟 Features
 
 - **Create Tasks**: Users can add new tasks to their to-do list.
