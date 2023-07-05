@@ -8,6 +8,8 @@ For your convenience, I have hosted this website on **Render** for free. Since i
 
 You can access the website from here: https://todo-list-v2-esc7.onrender.com
 
+You can also create multiple custom lists just by adding "/ANY_NAME_YOU_CHOOSE" at the end of the URL (Thanks to Express Route Parameters) 😁
+
 ## 🌟 Features
 
 - **Create Tasks**: Users can add new tasks to their to-do list.
